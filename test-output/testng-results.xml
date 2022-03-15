@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-03-14T22:34:21 IST" name="Default suite" finished-at="2022-03-14T22:34:22 IST" duration-ms="64">
+    <groups>
+    </groups>
+    <test started-at="2022-03-14T22:34:21 IST" name="Default test" finished-at="2022-03-14T22:34:22 IST" duration-ms="64">
+      <class name="PracticeMvnParameters.ReadDataFromCmdlineTest">
+        <test-method signature="readTheData()[pri:0, instance:PracticeMvnParameters.ReadDataFromCmdlineTest@3315d2d7]" started-at="2022-03-14T22:34:21 IST" name="readTheData" finished-at="2022-03-14T22:34:22 IST" duration-ms="11" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- readTheData -->
+      </class> <!-- PracticeMvnParameters.ReadDataFromCmdlineTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
